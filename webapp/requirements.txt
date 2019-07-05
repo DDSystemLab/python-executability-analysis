@@ -1,0 +1,6 @@
+django>=2.1.6
+django-bootstrap4==0.0.7
+psycopg2==2.7.5
+gunicorn==19.9
+pandas==0.24
+django-postgres-copy==2.3
